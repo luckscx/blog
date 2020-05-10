@@ -3,6 +3,8 @@ layout: post
 title: ssh_proxy
 date: 2020-05-08 13:09:58
 tags:
+- Linux
+- SSH
 ---
 
 给SSH访问上http proxy
