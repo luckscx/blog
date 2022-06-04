@@ -7,3 +7,5 @@ public/
 .deploy*/
 themes
 scaffolds
+source/_posts/logseq
+source/_posts/.obsidian
