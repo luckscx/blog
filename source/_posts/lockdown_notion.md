@@ -1,7 +1,8 @@
 ---
 title: 上海封城期间，我用Notion做家庭物资管理
 date: 2022-5-20
-tags: [notion]
+tags:
+- Notion
 ---
 
 此文主要受众是没有使用过Notion的同学，用实际例子介绍Notion的database基本功能，阅读耗时约1分钟。
